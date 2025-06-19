@@ -1,0 +1,14 @@
+{
+    "pop_size": 400,
+    "max_gen": 500,
+    "pr": 0.03,
+    "pc": 1,
+    "pm": 0.001,
+    "latex_export": false,
+    "improvement_threshold": 1e-5,
+    "max_stagnant_step": 20,
+    "objective_type": 1,
+    "weight_min_makespan": 0.25,
+    "weight_min_deadline_tardiness": 0.25,
+    "weight_max_machine_utilization": 0.25
+}

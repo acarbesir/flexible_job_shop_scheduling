@@ -1,0 +1,1217 @@
+{
+    "machines": [
+        {
+            "machine_id": 1,
+            "machine_name": "HYUNDAI WIA SE 2200LM-5",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 2,
+            "machine_name": "HUMMER T-42 CL",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 3,
+            "machine_name": "HYUNDAI WIA SE 2200LM-2",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 4,
+            "machine_name": "GOODWAY GLS-200",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 5,
+            "machine_name": "YOU-JI YH-21",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 6,
+            "machine_name": "HYUNDAI WIA L-210LA",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 7,
+            "machine_name": "CINCINNATI ARROW",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 8,
+            "machine_name": "AKIRA-SEIKI SR3XP",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 9,
+            "machine_name": "DOOSAN DNM 650 II",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 10,
+            "machine_name": "HYUNDAI WIA KF5600 II",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 11,
+            "machine_name": "LIEBHERR L300",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 12,
+            "machine_name": "PFAUTER RA-200-2",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 13,
+            "machine_name": "LIEBHERR NC-255",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 14,
+            "machine_name": "PFAUTER P-160-B",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 15,
+            "machine_name": "LIEBHERR PLC-255",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 16,
+            "machine_name": "GLEASON PFAUTER GP130-1",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 17,
+            "machine_name": "PFAUTER P-160-G",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 18,
+            "machine_name": "LORENZ S-7",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 19,
+            "machine_name": "PFAUTER RA-200",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 20,
+            "machine_name": "GLEASON-PFAUTER GP130-2",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 21,
+            "machine_name": "SCHAUDT ZX 11 S 600",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 22,
+            "machine_name": "MASTER MIG 501 W",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 23,
+            "machine_name": "MIKSAN ZIMPARA",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 24,
+            "machine_name": "CUTTERAL PA2280",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 25,
+            "machine_name": "TECNOMACCHINE SBAVATRICE",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 26,
+            "machine_name": "REISHAUER AZA-K",
+            "machine_availability": false
+        },
+        {
+            "machine_id": 27,
+            "machine_name": "FIRST",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 28,
+            "machine_name": "COLCHESTER",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 29,
+            "machine_name": "HIDROKAR",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 30,
+            "machine_name": "AKIFSAN ZIMPARA",
+            "machine_availability": true
+        },
+        {
+            "machine_id": 31,
+            "machine_name": "DI\u015e PROSES",
+            "machine_availability": true
+        }
+    ],
+    "orders": [
+        {
+            "baca_order_id": "SIP.00001",
+            "deadline": "10.09.2024",
+            "product_code": "600.01.0207",
+            "quantity": 50,
+            "operations": [
+                {
+                    "operation_id": "600.01.0207_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.01.0207_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.01.0207_03",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 5760
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.01.0207_04",
+                    "operation_type": "CNC Di\u015fli",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 11,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 12,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 13,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 14,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 15,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 16,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 17,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 18,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 19,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 20,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.01.0207_05",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00002",
+            "deadline": "12.09.2024",
+            "product_code": "600.02.0283",
+            "quantity": 1900,
+            "operations": [
+                {
+                    "operation_id": "600.02.0283_01",
+                    "operation_type": "Kaynak",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 22,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0283_02",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 7200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00002",
+            "deadline": "12.09.2024",
+            "product_code": "600.02.0013",
+            "quantity": 1900,
+            "operations": [
+                {
+                    "operation_id": "600.02.0013_01",
+                    "operation_type": "Kaynak",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 22,
+                            "target_cycle_time": 2
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0013_02",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 7200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00003",
+            "deadline": "09.09.2024",
+            "product_code": "600.02.0017",
+            "quantity": 1900,
+            "operations": [
+                {
+                    "operation_id": "600.02.0017_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00005",
+            "deadline": "12.09.2024",
+            "product_code": "600.02.0378",
+            "quantity": 1610,
+            "operations": [
+                {
+                    "operation_id": "600.02.0378_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 4
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0378_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 3
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0378_03",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 2880
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00005",
+            "deadline": "12.09.2024",
+            "product_code": "600.02.0379",
+            "quantity": 3200,
+            "operations": [
+                {
+                    "operation_id": "600.02.0379_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 4
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0379_02",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 2880
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00006",
+            "deadline": "23.09.2024",
+            "product_code": "600.02.0010",
+            "quantity": 1193,
+            "operations": [
+                {
+                    "operation_id": "600.02.0010_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 4
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 4
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0010_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0010_03",
+                    "operation_type": "CNC Di\u015fli",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 11,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 12,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 13,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 14,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 15,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 16,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 17,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 18,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 19,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 20,
+                            "target_cycle_time": 6
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0010_04",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 3
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0010_05",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00007",
+            "deadline": "09.09.2024",
+            "product_code": "600.02.0016",
+            "quantity": 450,
+            "operations": [
+                {
+                    "operation_id": "600.02.0016_01",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 2
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0016_02",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0016_03",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 1440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00007",
+            "deadline": "09.09.2024",
+            "product_code": "600.02.0003",
+            "quantity": 450,
+            "operations": [
+                {
+                    "operation_id": "600.02.0003_01",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 1440
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0003_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0003_03",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 1440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00008",
+            "deadline": "02.10.2024",
+            "product_code": "600.02.0447",
+            "quantity": 10,
+            "operations": [
+                {
+                    "operation_id": "600.02.0447_01",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 2
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 2
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0447_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0447_03",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0447_04",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 8
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0447_05",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00008",
+            "deadline": "02.10.2024",
+            "product_code": "600.02.0448",
+            "quantity": 10,
+            "operations": [
+                {
+                    "operation_id": "600.02.0448_01",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 3
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 3
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0448_02",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0448_03",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0448_04",
+                    "operation_type": "CNC Torna",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 1,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 2,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 3,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 4,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 5,
+                            "target_cycle_time": 8
+                        },
+                        {
+                            "machine_id": 6,
+                            "target_cycle_time": 8
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0448_04",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 6
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "baca_order_id": "SIP.00009",
+            "deadline": "22.09.2024",
+            "product_code": "600.02.0069",
+            "quantity": 6000,
+            "operations": [
+                {
+                    "operation_id": "600.02.0069_01",
+                    "operation_type": "D\u0131\u015f Proses",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 31,
+                            "target_cycle_time": 5760
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0069_02",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0069_03",
+                    "operation_type": "Bant Z\u0131mparas\u0131",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 30,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                },
+                {
+                    "operation_id": "600.02.0069_04",
+                    "operation_type": "CNC Freze",
+                    "setup_time": null,
+                    "available_machines": [
+                        {
+                            "machine_id": 7,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 8,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 9,
+                            "target_cycle_time": 1
+                        },
+                        {
+                            "machine_id": 10,
+                            "target_cycle_time": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
